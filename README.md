@@ -6,7 +6,7 @@ Welcome to my coding playground! I'm Artemidas365, a passionate student and game
 
 - 🎓 Studying programming and game development.
 - 💻 Creating my own game engine using C++, GLFW, and OpenGL.
-- 🎮 Developing exciting 3D games inspired by classics like Pixel Car Racer.(WIP)
+- 🎮 (WIP)Developing 3D games inspired by Pixel Car Racer.
 - 🌐 Exploring the endless possibilities of code.
 - 🤓 Eager to learn and grow in the coding universe.
 
